@@ -9,7 +9,7 @@ Thèmes :
   2) Restauration : jeux par équipe (cuisine, bar, sale, responsable), RP
   3) Formule 1 : Jeux de communication par équipe (pilote, opérateur, pit team), finir la course avec le moins de problème possible, dans le meilleur temps, certaines infos sont dispo que pour certains joueurs
   4) Culture générale : Plateau (cartes). Thème : Ingénieurerie (public étudiant / ingénieur; séparation par thèmes (info, physique, maths, ...), niveau de diff croissant) 
-  5) Programmation : Vrai Faux sur des bouts de codes tirés (ou deviner la sortie)
+  5) Programmation : Vrai Faux sur des bouts de codes tirés (ou deviner la sortie du programme)
 
 Choix retenus
   1) Peu de jeux existants, facile en mise en place, publique plus large
@@ -18,3 +18,6 @@ Choix retenus
 Choix final 
   1) Langue des signes
   
+Jeux de type vitesse avec des cartes (style jungle speed), à partir de 6 ans, grand publique, pas d'animateurs, objectif d'apprentissage de signes fondamentaux.
+Une carte signe au milieux, un totem au milieu; chaque joueur a un paquet de cartes mots face caché, tous es joueurs retournent la carte du dessus, si un des mots des joueurs correspond au signe au milieu, il faut récupérer le totem. 
+L'objectif est d'être le premier à défausser toute ses cartes.
