@@ -19,16 +19,16 @@ Choix final
   1) Langue des signes
   
 Jeux de type vitesse avec des cartes (style jungle speed), à partir de 6 ans, grand publique, pas d'animateurs, objectif d'apprentissage de signes fondamentaux.
-Une carte signe au milieux, un totem au milieu; 
+Une carte signe au milieux (pour tous les joueurs), un totem au milieu; 
 chaque joueur a un paquet de cartes mots face caché, 
-tous es joueurs retournent la carte du dessus en même temps, 
-si un des mots des joueurs correspond au signe au milieu, il faut récupérer le totem. 
+tous es joueurs retournent la carte du dessus de leurs paquets en même temps, 
+si un des mots des joueurs correspond au signe du milieu, il faut récupérer le totem. 
 L'objectif est d'être le premier à défausser toute ses cartes.
 
 Séance 2 :
 Choix du nom du jeu : signes, vitesse, cartes, totem. Speed signs, signe et gagne, sign'Express, jungle signe
 Choix final : Signe et gagne pour le nom français cohérent avec les mots du jeu.
-Précision de l'objectif : Sensibiliser à la langue des signes pour les personnes qui viennent de perdre l'ouïe ou la voix et apprendre la base pour simplifier la vie des ces personnes. 
+Précision de l'objectif : Sensibiliser à la langue des signes pour les personnes qui viennent de perdre l'ouïe ou la voix et apprendre la base (pour simplifier la vie des ces personnes). 
 
 
 Mots : Bonjour, Merci, Derien, Pardon , Comment ça va?, Au revoir,  , oui, non, Toi, moi (je), please, (Questions: pourquoi,comment ,Ou, ...), Singe, bien, pas bien, d'accord, Direction, toilettes,
@@ -36,3 +36,6 @@ Comprendre, Aider, Manger, aimer, demmander, boire, stressé, heureux, triste, p
 
 Cartes : il faut le corps derrières les mains qui font les signes pour avoir un référentiel spacial.
 
+Changement de l'objectif : avoir été le plus réactif au cours de la partie en ayant attraper le totem en premier le plus de fois sans se tromper
++1 si le totem est attrappé et que le mot à été retourné par l'un des joueurs.
+-1 si le totem est attrapé alors que le mot n'a pas été retourné.
