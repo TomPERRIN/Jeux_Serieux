@@ -19,7 +19,10 @@ Choix final
   1) Langue des signes
   
 Jeux de type vitesse avec des cartes (style jungle speed), à partir de 6 ans, grand publique, pas d'animateurs, objectif d'apprentissage de signes fondamentaux.
-Une carte signe au milieux, un totem au milieu; chaque joueur a un paquet de cartes mots face caché, tous es joueurs retournent la carte du dessus, si un des mots des joueurs correspond au signe au milieu, il faut récupérer le totem. 
+Une carte signe au milieux, un totem au milieu; 
+chaque joueur a un paquet de cartes mots face caché, 
+tous es joueurs retournent la carte du dessus en même temps, 
+si un des mots des joueurs correspond au signe au milieu, il faut récupérer le totem. 
 L'objectif est d'être le premier à défausser toute ses cartes.
 
 Séance 2 :
@@ -28,6 +31,8 @@ Choix final : Signe et gagne pour le nom français cohérent avec les mots du je
 Précision de l'objectif : Sensibiliser à la langue des signes pour les personnes qui viennent de perdre l'ouïe ou la voix et apprendre la base pour simplifier la vie des ces personnes. 
 
 
-Mots : Bonjour, Merci, Derien,Pardon , Comment cava?, Au revoir,  , oui , non , Toi , moi (je) ,please , (Questions: pourquoi,comment ,Ou,),Singe,bien, pas  bien,d'accord,Direction,toilettes,
-Comprendre, Aider,Manger, aimer,demmander,boire,
-stressé,heureux,triste,peur,la colère,anxieté,Amour,fatigué,faim,
+Mots : Bonjour, Merci, Derien, Pardon , Comment ça va?, Au revoir,  , oui, non, Toi, moi (je), please, (Questions: pourquoi,comment ,Ou, ...), Singe, bien, pas bien, d'accord, Direction, toilettes,
+Comprendre, Aider, Manger, aimer, demmander, boire, stressé, heureux, triste, peur, la colère, anxieté, Amour, fatigué, faim, 
+
+Cartes : il faut le corps derrières les mains qui font les signes pour avoir un référentiel spacial.
+
