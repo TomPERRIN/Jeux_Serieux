@@ -22,4 +22,7 @@ Pour finir : relecture critique de ce qui a été fait
 
 
 Avancée : Modification de la condition de victoire, précision des règles, le nombre de carte et de joueurs max
-Difficulté : 
+Difficulté : Mise en accord des règles et du fonctionnement du jeu.
+
+Prévisions pour la séance prochaine : Un fichier au propre des règles du jeu, un fichier au propre des objectifs du jeu, (Le design des éléments du jeu, et commencer un site).
+Equipe : Communication plus difficile que la séance précédente dû à des compréhensions différentes du jeu. Ce problème a été réglé par un éclaircissement est une mise en accord. 
