@@ -23,7 +23,7 @@ Une carte signe au milieux (pour tous les joueurs), un totem au milieu;
 chaque joueur a un paquet de cartes mots face caché, 
 tous es joueurs retournent la carte du dessus de leurs paquets en même temps, 
 si un des mots des joueurs correspond au signe du milieu, il faut récupérer le totem. 
-L'objectif est d'être le premier à défausser toute ses cartes.
+L'objectif est d'être le premier à défausser toute ses cartes. //modifié
 
 Séance 2 :
 Choix du nom du jeu : signes, vitesse, cartes, totem. Speed signs, signe et gagne, sign'Express, jungle signe
@@ -34,8 +34,16 @@ Précision de l'objectif : Sensibiliser à la langue des signes pour les personn
 Mots : Bonjour, Merci, Derien, Pardon , Comment ça va?, Au revoir,  , oui, non, Toi, moi (je), please, (Questions: pourquoi,comment ,Ou, ...), Singe, bien, pas bien, d'accord, Direction, toilettes,
 Comprendre, Aider, Manger, aimer, demmander, boire, stressé, heureux, triste, peur, la colère, anxieté, Amour, fatigué, faim, 
 
-Cartes : il faut le corps derrières les mains qui font les signes pour avoir un référentiel spacial.
+Cartes : il faut le corps derrières les mains qui font les signes pour avoir un référentiel spacial. Des cartes qui valent plus que d'autres (les points par cartes seront écrits dans un angle)
+
+Règle potentielle en plus : Celui qui à pris le totem en premier choisit un autre joueur de son choix (qui s'est proposé) pour signer une expression avec le mot du milieu afin de récupérer 
++1 s'il réussit ou -1 s'il échoue.
 
 Changement de l'objectif : avoir été le plus réactif au cours de la partie en ayant attraper le totem en premier le plus de fois sans se tromper
 +1 si le totem est attrappé et que le mot à été retourné par l'un des joueurs.
--1 si le totem est attrapé alors que le mot n'a pas été retourné.
+-3 si le totem est attrapé alors que le mot n'a pas été retourné.
+Distribution du même nombre de carte mot pour tout le monde. 
+La partie finie auqnd le nombre de signe définit est dépassé.
+
+Nombre de personnes max : 6 GRAND MAX !!!!!!!
+Nombre de cartes : nombre de signes*1 / nombre de mot = 10 cartes par personnes
