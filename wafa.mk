@@ -21,3 +21,10 @@ Choix final
 Jeux de type vitesse avec des cartes (style jungle speed), à partir de 6 ans, grand publique, pas d'animateurs, objectif d'apprentissage de signes fondamentaux.
 Une carte signe au milieux, un totem au milieu; chaque joueur a un paquet de cartes mots face caché, tous es joueurs retournent la carte du dessus, si un des mots des joueurs correspond au signe au milieu, il faut récupérer le totem. 
 L'objectif est d'être le premier à défausser toute ses cartes.
+
+
+
+
+Mots : Bonjour, Merci, Derien,Pardon , Comment cava?, Au revoir,  , oui , non , Toi , moi (je) ,please , (Questions: pourquoi,comment ,Ou,),Singe,
+Comprendre, Aider,Manger, aimer,
+stressé,heureux,triste,peur,
