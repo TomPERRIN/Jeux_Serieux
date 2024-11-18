@@ -15,7 +15,7 @@ Equipe : Bonne entente et communication, mise en accord efficace; groupe multi c
 
 18/11
 Parmis les prévisions pour cette séance, définir l'ordre.
-En premier temps : 3 sur le choix des mots / signes et 2 sur le nom du jeu.
+En premier temps : 3 sur le choix des mots / signes (le nombre de mots et signes) et 2 sur le nom du jeu.
 En second temps : Les règles tous ensemble
 Ensuite : design
 Pour finir : relecture critique de ce qui a été fait
