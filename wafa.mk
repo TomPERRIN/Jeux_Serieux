@@ -48,3 +48,5 @@ La partie finie auqnd le nombre de signe définit est dépassé.
 Nombre de personnes max : 6 GRAND MAX !!!!!!!
 Nombre de cartes : nombre de signes*1 / nombre de mot = 10 cartes par personnes
 Quand les 10 cartes sont retournées, il faut les mélanger et les redistribuer
+
+Totem : objet physique et solide tenable en main et qui peut être statique verticalement.
