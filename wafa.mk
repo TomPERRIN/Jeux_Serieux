@@ -45,8 +45,11 @@ Changement de l'objectif : avoir été le plus réactif au cours de la partie en
 Distribution du même nombre de carte mot pour tout le monde. 
 La partie finie auqnd le nombre de signe définit est dépassé.
 
+Une carte mot au milieu et les joueurs ont des cartes signes
+
 Nombre de personnes max : 6 GRAND MAX !!!!!!!
-Nombre de cartes : nombre de signes*1 / nombre de mot = 10 cartes par personnes
+Nombre de cartes : nombre de mots*1 / nombre de signes = 10 cartes par personnes
 Quand les 10 cartes sont retournées, il faut les mélanger et les redistribuer
 
 Totem : objet physique et solide tenable en main et qui peut être statique verticalement.
+Cartes : type jungle speed (carré, en carton) mais sans couleurs.
