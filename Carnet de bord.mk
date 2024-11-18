@@ -22,3 +22,4 @@ Pour finir : relecture critique de ce qui a été fait
 
 
 Avancée : Modification de la condition de victoire, précision des règles, le nombre de carte et de joueurs max
+Difficulté : 
