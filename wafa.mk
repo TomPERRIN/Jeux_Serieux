@@ -17,10 +17,10 @@ Choix retenus
 
 Choix final 
   1) Langue des signes
-  
+
 Jeux de type vitesse avec des cartes (style jungle speed), à partir de 8 ans (capable de lire), grand publique, pas d'animateurs, objectif d'apprentissage de signes fondamentaux.
 Une carte signe au milieux (pour tous les joueurs), un totem au milieu; 
-chaque joueur a un paquet de cartes mots face caché, 
+chaque joueur a un paquet de cartes mots face caché,
 tous es joueurs retournent la carte du dessus de leurs paquets en même temps, 
 si un des mots des joueurs correspond au signe du milieu, il faut récupérer le totem. 
 L'objectif est d'être le premier à défausser toute ses cartes. //modifié
@@ -53,3 +53,7 @@ Quand les 10 cartes sont retournées, il faut les mélanger et les redistribuer
 
 Totem : objet physique et solide tenable en main et qui peut être statique verticalement.
 Cartes : type jungle speed (carré, en carton) mais sans couleurs.
+
+Séance 3 :
+Diagramme de Gantt
+Formalisation des règles et de la présentation du jeu dans le fichier règles
