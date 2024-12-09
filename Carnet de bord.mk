@@ -1,5 +1,4 @@
 21/10
-La signification du prénom wafa. (Fidélité)
 Choix par votes du thème parmis ceux proposés, résultant au choix final de "Langue des signes"
 Choix du jeu définition (type de jeux, jouabilité, public cible). Jeux de type vitesse avec des cartes, à partir de 6 ans, grand publique, pas d'animateurs, objectif d'apprentissage de signes fondamentaux.
 Difficulté : prononciation du prenom "wafa"
@@ -29,4 +28,8 @@ Equipe : Communication plus difficile que la séance précédente dû à des com
 
 02/12
 Faire le diagramme de Gantt, faire la documentation (ressources, et manuel), 
-(Sur 2 séances) 
+(Sur 2 séances)
+
+09/12
+A faire les documents pour le point d'étape (gamae, points fort et faibles, documentation du jeu), et évolution du gantt.            
+A continuer la préparation de la présentation finale.
