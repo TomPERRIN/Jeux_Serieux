@@ -57,3 +57,7 @@ Cartes : type jungle speed (carré, en carton) mais sans couleurs.
 Séance 3 :
 Diagramme de Gantt
 Formalisation des règles et de la présentation du jeu dans le fichier règles
+
+
+Séance 4 :
+Mise en pratique du jeu et test par un autre groupe.
