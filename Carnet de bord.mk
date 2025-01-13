@@ -33,3 +33,7 @@ Faire le diagramme de Gantt, faire la documentation (ressources, et manuel),
 09/12
 A faire les documents pour le point d'étape (gamae, points fort et faibles, documentation du jeu), et évolution du gantt.            
 A continuer la préparation de la présentation finale.
+
+13/01
+Faire une version fonctionnelle du jeu et le faire tester à un autre groupe.
+Continuer le diapo de présentation.
