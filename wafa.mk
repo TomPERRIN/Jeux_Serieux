@@ -61,3 +61,6 @@ Formalisation des règles et de la présentation du jeu dans le fichier règles
 
 Séance 4 :
 Mise en pratique du jeu et test par un autre groupe.
+
+Séance 5 :
+Tests du jeu, amélioration, finalisation de la présentation et du site.
