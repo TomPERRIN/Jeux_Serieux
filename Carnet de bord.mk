@@ -37,3 +37,8 @@ A continuer la préparation de la présentation finale.
 13/01
 Faire une version fonctionnelle du jeu et le faire tester à un autre groupe.
 Continuer le diapo de présentation.
+
+20/01
+Faire tester la version testable faite lors de la séance précédente et améliorer le jeu. 
+Continuer le diapo
+Continuer le site
