@@ -41,4 +41,4 @@ Continuer le diapo de présentation.
 20/01
 Faire tester la version testable faite lors de la séance précédente et améliorer le jeu. 
 Continuer le diapo
-Continuer le site
+Continuer le site https://tomperrin.github.io/Jeux_Serieux/
